@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: My blog
-description:  Cross the Great Wall ,we can reach every  conner in the world
+description:  Cross the Great Wall ,we can reach every  corner in the world
 
 # url is currently only used only for the RSS feed in feed.xml
 url: http://lk375273991.github.io
@@ -13,7 +13,7 @@ url: http://lk375273991.github.io
 #baseurl: /jekyll-clean
 
 # This can be '' to hide the Github nav button
-github: 'scotte/jekyll-clean'
+github: 'lk375273991'
 
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
